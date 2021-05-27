@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![HTML](https://img.shields.io/badge/-HTML%205-orange)
+![Kotlin](https://img.shields.io/badge/-HTML%205-orange)
