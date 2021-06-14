@@ -10,6 +10,7 @@ work as a team where everyone contributes ideas.
 I easily learn technology subjects. I like to share
 my knowledge with other people
 
+
 <!--
 **johnny3young/johnny3young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
