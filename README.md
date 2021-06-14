@@ -40,7 +40,7 @@ my knowledge with other people..
 
 | Skill         | find me at    |quantity   |
 | ------------- |:-------------:| :--------:|
-| Laptop        | 3.33          | 2         |
+| ![GoogleCloud](https://img.shields.io/badge/-Google Cloud%20-blue)        | 3.33          | 2         |
 | Mouse         | 10.33         | 1         |
 | Mouse         | 10.33         | 1         |
 | Mouse         | 10.33         | 1         |
