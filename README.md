@@ -3,6 +3,7 @@
 
 <hr>
 ## About me
+
 I'm a proactive and dedicate person to study, work.
 I consider myself capable to confront any challenge
 to learn more everyday, focused on code readability
