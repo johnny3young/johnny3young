@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Johnny III Young Ospino | Freelance full stack & Android developer
+
+<hr>
 
 <!--
 **johnny3young/johnny3young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
