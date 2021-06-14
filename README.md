@@ -12,10 +12,7 @@ my knowledge with other people
 
 
 <!--
-**johnny3young/johnny3young** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- ✨ _special_ ✨
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,6 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr>
 Skills:
 
 ![HTML](https://img.shields.io/badge/-HTML%205-orange)
