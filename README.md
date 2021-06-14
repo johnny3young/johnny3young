@@ -1,7 +1,8 @@
-## Hi there 👋
+### Hi there 👋
 ✨My name is Johnny III Young Ospino | Frontend web developer & Android developer✨
 
 <hr>
+
 ### About me
 
 I'm a proactive and dedicate person to study, work.
@@ -26,6 +27,26 @@ my knowledge with other people..
 -->
 
 <hr>
-### Skills:
+
+### Skills
 
 ![HTML](https://img.shields.io/badge/-HTML%205-orange)
+![CSS](https://img.shields.io/badge/-CSS%203-blue)
+![Kotlin](https://img.shields.io/badge/-Kotlin%20-blue)
+![JavaScript](https://img.shields.io/badge/-Javascript%20-yellow)
+![AS](https://img.shields.io/badge/-Android Studio%20-green)
+![Firebase](https://img.shields.io/badge/-Firebase%20-yellow)
+![GoogleCloud](https://img.shields.io/badge/-Google Cloud%20-blue)
+
+| Skill         | find me at    |quantity   |
+| ------------- |:-------------:| :--------:|
+| Laptop        | 3.33          | 2         |
+| Mouse         | 10.33         | 1         |
+| Mouse         | 10.33         | 1         |
+| Mouse         | 10.33         | 1         |
+| Mouse         | 10.33         | 1         |
+| Mouse         | 10.33         | 1         |
+
+### Find me at
+
+
