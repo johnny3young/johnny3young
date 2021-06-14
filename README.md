@@ -25,6 +25,6 @@ my knowledge with other people..
 -->
 
 <hr>
-##Skills:
+## Skills:
 
 ![HTML](https://img.shields.io/badge/-HTML%205-orange)
