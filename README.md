@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Kotlin](https://img.shields.io/badge/-HTML%205-orange)
+Skills:
+(https://img.shields.io/badge/-HTML%205-orange)
