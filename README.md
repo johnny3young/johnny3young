@@ -5,10 +5,10 @@
 I'm a proactive and dedicate person to study, work.
 I consider myself capable to confront any challenge
 to learn more everyday, focused on code readability
-implementing and adopting new libraries. I like to
-work as a team where everyone contributes ideas.
+implementing and adopting new libraries or framework.
+I like to work as a team where everyone contributes ideas.
 I easily learn technology subjects. I like to share
-my knowledge with other people
+my knowledge with other people..
 
 
 <!--
