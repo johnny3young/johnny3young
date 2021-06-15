@@ -14,6 +14,12 @@ I easily learn technology subjects. I like to share
 my knowledge with other people..
 
 
+- 🔭 I’m currently working on [Multiport EU](https://multiport.com.co/en/home/)
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
+- 💬 Ask me about Html, Css, Javascript, Kotlin or any tech-related stuff.
+- 📫 How to reach me: [Twitter - @johnny3young](https://twitter.com/johnny3young) , [Linkedin](https://www.linkedin.com/in/johnny-iii-young-ospino/) , [Youtube](https://www.youtube.com/channel/UCNG23o2mjagAJGf-TNOpZnw)
+
+
 <!--
 - ✨ _special_ ✨
 - 🔭 I’m currently working on ...
@@ -44,7 +50,7 @@ my knowledge with other people..
 
 <!-- | Mouse         | 10.33         | 1         | -->
 
-## Find me at
-![Twitter](https://i.ibb.co/znh1MRq/Twitter-01-128px.png) ![Youtube](https://i.ibb.co/6rGdVNV/Youtube-01-128px.png) ![Linkedin](https://i.ibb.co/YkbD86D/Linkedin-01-128px.png)
+<!-- ## Find me at
+![Twitter](https://i.ibb.co/znh1MRq/Twitter-01-128px.png) ![Youtube](https://i.ibb.co/6rGdVNV/Youtube-01-128px.png) ![Linkedin](https://i.ibb.co/YkbD86D/Linkedin-01-128px.png) -->
 
 
