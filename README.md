@@ -19,6 +19,8 @@ my knowledge with other people..
 - 💬 Ask me about Html, Css, Javascript, Kotlin or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @johnny3young](https://twitter.com/johnny3young) , [Linkedin](https://www.linkedin.com/in/johnny-iii-young-ospino/) , [Youtube](https://www.youtube.com/channel/UCNG23o2mjagAJGf-TNOpZnw)
 
+<img src="https://github-readme-stats.vercel.app/api?username=johnny3young&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 <!--
 - ✨ _special_ ✨
