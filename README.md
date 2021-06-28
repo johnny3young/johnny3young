@@ -1,5 +1,5 @@
 ## Hi there 👋
-✨My name is Johnny III Young Ospino | Frontend web developer & Android developer✨
+✨My name is Johnny III Young Ospino | Frontend web developer & Android developer Kotlin✨
 
 <hr>
 
